@@ -5,7 +5,6 @@ import static com.lacouf.al420565final.util.ClientFactory.getClients;
 import com.lacouf.al420565final.model.Client;
 import org.springframework.web.bind.annotation.CrossOrigin;
 import org.springframework.web.bind.annotation.GetMapping;
-import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 import java.util.List;
